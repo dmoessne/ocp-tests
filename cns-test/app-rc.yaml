@@ -11,7 +11,7 @@ spec:
       labels:  
         name: busybox
     annotations:
-        kubernetes.io/hostname=inf164.coe.muc.redhat.com
+        kubernetes.io/hostname=inf164
     spec:
      containers:
      - image: busybox
